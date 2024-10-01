@@ -1,0 +1,24 @@
+{
+  "knowledge": [
+    {
+      "id": 1,
+      "title": "Reducir el desperdicio de alimentos",
+      "description": "Consejos prácticos para reducir el desperdicio de alimentos en el hogar."
+    },
+    {
+      "id": 2,
+      "title": "Aprovechamiento de frutas maduras",
+      "description": "Ideas para aprovechar frutas que están a punto de echarse a perder."
+    },
+    {
+      "id": 3,
+      "title": "Métodos de conservación de alimentos",
+      "description": "Guía sobre métodos efectivos para conservar alimentos por más tiempo."
+    },
+    {
+      "id": 4,
+      "title": "Recetas con sobras",
+      "description": "Recetas fáciles utilizando las sobras de la comida para crear nuevos platillos."
+    }
+  ]
+}
